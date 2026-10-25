@@ -1,7 +1,7 @@
 {
   "name": "token-usage",
   "version": "0.1.0",
-  "description": "Live token usage, cost and rate limits for the session, in a pane and the status line",
+  "description": "Live token usage, cost and rate limits for the session, above the prompt and in the status line",
   "author": { "name": "Tillo Khamdamov" },
   "license": "MIT",
   "types": "./types/index.d.ts"
