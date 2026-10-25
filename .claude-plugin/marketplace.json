@@ -1,0 +1,8 @@
+{
+  "name": "claude-token-usage",
+  "description": "A single mod that shows a session's token usage, cost and rate limits above the prompt",
+  "owner": { "name": "Tillo Khamdamov" },
+  "plugins": [
+    { "name": "token-usage", "source": "./" }
+  ]
+}
